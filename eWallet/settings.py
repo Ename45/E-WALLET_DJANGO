@@ -89,7 +89,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'eWallet',
         'USER': 'root',
-        'PASSWORD': 'In3m3sitsql.'
+        'PASSWORD': 'put_your_password'
     }
 }
 
